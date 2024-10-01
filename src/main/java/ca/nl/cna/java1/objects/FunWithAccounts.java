@@ -2,6 +2,10 @@ package ca.nl.cna.java1.objects;
 
 import java.util.Scanner;
 
+/**
+ * Simple class to play with the Accounts Class
+ * //TODO migrate this out of package
+ */
 public class FunWithAccounts {
 
     public static void main(String[] args) {

@@ -11,6 +11,8 @@ public class FunWithCourses {
         System.out.printf("Course info: \n%s\t%s\t\n%s \nCredits: %d",
                 course.getNumber(), course.getName(), course.getDescription(), course.getCredits());
 
+
+
     }
 
 }
