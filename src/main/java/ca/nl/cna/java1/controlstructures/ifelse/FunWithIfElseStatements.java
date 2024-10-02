@@ -28,7 +28,8 @@ public class FunWithIfElseStatements {
 
         if (x % 2 == 0) {
             System.out.println("The number is EVEN!");
-        } else {
+        }
+        else {
             System.out.println("The number is ODD!");
         }
 

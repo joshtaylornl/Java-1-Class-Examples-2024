@@ -22,18 +22,20 @@ public class GradeExampleWhileLoop {
 
         System.out.println("How many students?");
         int n = input.nextInt();
+//
+//        int total = 0;
+//        int gradeCounter = 0;
+//
+//        while(gradeCounter < n) {
+//            System.out.println("Enter a number: ");
+//            int x = input.nextInt();
+//            total += x;
+//            gradeCounter++;
+//        }
+//
+//        System.out.printf("Class average: %d", total/n);
 
-        int total = 0;
-        int gradeCounter = 0;
 
-        while(gradeCounter < n) {
-            System.out.println("Enter a number: ");
-            int x = input.nextInt();
-            total += x;
-            gradeCounter++;
-        }
-
-        System.out.printf("Class average: %d", total/n);
     }
 
 }
