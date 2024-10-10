@@ -13,7 +13,7 @@ public class FunWithConsoleInput {
     public static void main(String[] args) {
         //Create a scanner object pointed at System.in which is the cursor on the console
         Scanner input = new Scanner(System.in);
-
+        
         System.out.println("Please enter a number: ");
         int x = input.nextInt();
 
