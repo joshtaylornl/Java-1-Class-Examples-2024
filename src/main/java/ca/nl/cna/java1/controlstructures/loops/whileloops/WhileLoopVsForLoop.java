@@ -1,4 +1,4 @@
-package ca.nl.cna.java1.controlstructures.loops;
+package ca.nl.cna.java1.controlstructures.loops.whileloops;
 
 /**
  * Simple class to demonstrate the difference between while and for loops

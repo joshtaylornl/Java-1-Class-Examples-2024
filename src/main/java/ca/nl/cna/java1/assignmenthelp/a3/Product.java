@@ -2,8 +2,7 @@ package ca.nl.cna.java1.assignmenthelp.a3;
 
 /**
  * A class to represent a Product on an invoice
- * @authoer
- *
+ * @author josh.taylor
  */
 public class Product {
 
@@ -40,7 +39,8 @@ public class Product {
     }
 
     public void setPrice(double price) {
-        //TODO handle negatives
-        this.price = price;
+        if(price >= 0) {
+            this.price = price;
+        }
     }
 }
