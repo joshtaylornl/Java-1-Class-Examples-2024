@@ -2,14 +2,14 @@ package ca.nl.cna.java1.assignmenthelp.a4;
 
 public class FibonacciCalculator {
 
-    public boolean isFibonacciNumber(int number){
+    public static boolean isFibonacciNumber(int number){
         //TODO write this method
         return false;
     }
 
-    public int getFinbonacciNumber(int n){
+    public static int getFibonacciNumber(int n){
         //TODO write this method
-        return 0;
+        return -1;
     }
 
 }
