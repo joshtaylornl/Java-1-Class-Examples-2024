@@ -1,4 +1,4 @@
-package ca.nl.cna.java1.assignmenthelp.a4b;
+package ca.nl.cna.java1.assignmenthelp.a4;
 
 public class FibonacciCalculator {
 
