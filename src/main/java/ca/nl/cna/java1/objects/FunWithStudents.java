@@ -17,7 +17,7 @@ public class FunWithStudents {
 
         //instantiating a class firstStudent
         Student firstStudent = new Student(firstName, lastName);
-
+        
         System.out.printf("First Students name: %s %s\n",
                 firstStudent.getFirstName(),
                 firstStudent.getLastName());
