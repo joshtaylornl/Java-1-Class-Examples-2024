@@ -12,7 +12,7 @@ public class FunWithFibonacci {
         FibonacciCalculator fibonacciCalculator2 = new FibonacciCalculator();
 
         System.out.println("Print the first 10 fibonacci numbers");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 1; i < 10; i++) {
             System.out.printf("\n%d th fibonnaci number: %d", i, FibonacciCalculator.getFibonacciNumber(i));
         }
 

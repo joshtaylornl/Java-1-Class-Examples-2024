@@ -25,18 +25,18 @@ class AccountTest {
         assertEquals(0, account.getBalance());
     }
 
-//    @org.junit.jupiter.api.Test
-//    void credit() {
-//        //TODO
-//    }
-//
-//    @org.junit.jupiter.api.Test
-//    void debit() {
-//        //TODO
-//    }
-//
-//    @org.junit.jupiter.api.Test
-//    void reset() {
-//        //TODO
-//    }
+    @org.junit.jupiter.api.Test
+    void credit() {
+        //TODO
+    }
+
+    @org.junit.jupiter.api.Test
+    void debit() {
+        //TODO
+    }
+
+    @org.junit.jupiter.api.Test
+    void reset() {
+        //TODO
+    }
 }

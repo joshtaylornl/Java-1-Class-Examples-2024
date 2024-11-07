@@ -23,7 +23,9 @@ public class Product {
     }
 
     public void setId(int id) {
-        this.id = id;
+        if(id > 0){
+            this.id = id;
+        }
     }
 
     public String getDescription() {
