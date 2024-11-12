@@ -20,7 +20,9 @@ public class FunWithPrintF {
         int y = 1024;
         System.out.printf("\nPrint ints: %d, %d\n", x, y);
 
-        //TODO show an example with double and all primitive types
+        //how to print currencies
+        double price = 10.95;
+        System.out.printf("\nPrice: $%.2f", price);
 
     }
 
