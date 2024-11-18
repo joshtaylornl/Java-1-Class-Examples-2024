@@ -23,6 +23,7 @@ public class FunWithArrayLists {
         studentList.add(FunWithStudents.generateRandomStudent());
         studentList.add(FunWithStudents.generateRandomStudent());
         studentList.add(FunWithStudents.generateRandomStudent());
+        studentList.add(FunWithStudents.generateRandomStudent());
 
         for (Student student: studentList) {
             FunWithStudents.printStudentInfo(student);

@@ -17,7 +17,6 @@ public class FunWithStudentArray {
         for (Student student : studentArray) {
             FunWithStudents.printStudentInfo(student);
         }
-
     }
 
 }
